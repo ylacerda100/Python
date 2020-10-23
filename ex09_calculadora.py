@@ -56,21 +56,15 @@ def main():
             print('Saindo do programa...')
             break
         else:
+            numero_1 = input('Digite um número: ')
+            numero_2 = input('Digite outro número: ')
             if option == '1':
-                numero_1 = input('Digite um número: ')
-                numero_2 = input('Digite outro número: ')
                 adicao(numero_1, numero_2)
             elif option == '2':
-                numero_1 = input('Digite um número: ')
-                numero_2 = input('Digite outro número: ')
                 subtracao(numero_1, numero_2)
             elif option == '3':
-                numero_1 = input('Digite um número: ')
-                numero_2 = input('Digite outro número: ')
                 multiplica(numero_1, numero_2)
             elif option == '4':
-                numero_1 = input('Digite um número: ')
-                numero_2 = input('Digite outro número: ')
                 divisao(numero_1, numero_2)
             else:
                 print('Opção inválida! Por favor, escolha uma operação válida.')
