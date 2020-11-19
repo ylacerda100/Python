@@ -1,2 +1,2 @@
 # Python
-Atividades e projetos realizados durante o aprendizado da linguagem
+Projetos de nível iniciante para aplicar os conhecimentos que adquiri através do estudo da linguagem
